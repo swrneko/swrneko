@@ -1,6 +1,10 @@
 ## wassup.
-<img src="https://profile-counter.glitch.me/swrneko/count.svg" />
-I'm swrneko, student of MAI, junior developer, studies electronics, dev-ops and etc.\
+<img src="https://github.com/swrneko/swrneko/blob/main/x4hnwsvps4h91.gif" />
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/swrneko/count.svg" />
+</p>
+I'm swrneko, student of MAI, junior developer, studies electronics, dev-ops and etc. <br>
 You can connect with me here [Telegram](https://t.me/swrnekodesu), [Reddit](https://www.reddit.com/user/sayyyo/) and Discord `swrnekodesu`.
 
 ### :hammer_and_wrench: Languages i use:
