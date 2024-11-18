@@ -15,6 +15,19 @@ You can connect with me here [Telegram](https://t.me/swrnekodesu), [Reddit](http
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 </div>
 
+### :computer: Software i use:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Archlinux" alt="Archlinux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Ryo-samuraiJP/skill-icons2/blob/main/assets/hyprland-auto.svg" title="Hyprland" alt="Hyprland" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/alacritty/alacritty/blob/master/extra/logo/alacritty-term.svg" title="Alacritty" alt="Alacritty" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Firefox" alt="Firefox" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/FreeCAD/FreeCAD/blob/main/src/Gui/Icons/freecad.svg" title="Freecad" alt="Freecad" width="40" height="40"/>&nbsp;
+<div>
+
 ### :fire: My Stats : 
 <div>
   <img width="450" height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=swrneko&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="my Github Stats"/> 
