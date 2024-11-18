@@ -1,4 +1,5 @@
 ## wassup.
+<img src="https://profile-counter.glitch.me/swrneko/count.svg" />
 I'm swrneko, student of MAI, junior developer, studies electronics, dev-ops and etc.\
 You can connect with me here [Telegram](https://t.me/swrnekodesu), [Reddit](https://www.reddit.com/user/sayyyo/) and Discord `swrnekodesu`.
 
