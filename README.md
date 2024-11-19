@@ -43,6 +43,6 @@ I'm swrneko, student of MAI, junior developer, studies electronics, dev-ops and 
 <div>
 
 ## Get in touch :coffee:
-[Telegram](https://t.me/swrnekodesu) <br>
-[Reddit](https://www.reddit.com/user/sayyyo/) <br>
-Discord `swrnekodesu`.
+<a href="https://t.me/swrnekodesu" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="https://www.reddit.com/user/sayyyo/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Telegram"></a>
+<a href="https://discord.com/users/559014699950145556" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
