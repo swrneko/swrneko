@@ -1,4 +1,4 @@
-### :wave: Welcome to my github profile %username!
+### :floppy_disk: Welcome to my github profile %username!
 <img src="https://github.com/swrneko/swrneko/blob/main/x4hnwsvps4h91.gif" />
 
 <!---
@@ -20,7 +20,15 @@
   </p>
 </div>
 
-## About me:
+## :fish_cake: My favorite repo:
+<div>
+  <p align="center" >
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swrneko&repo=dots&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swrneko&repo=mai_shit&theme=tokyonight&hide_border=true"/>
+  </p>
+</div>
+
+## :rice_ball: About me:
 - :mortar_board: studying in MAI; <br>
 - :briefcase: working on my opensource projects; <br>
 - :sweat_drops: so like opensourse; <br>
@@ -54,7 +62,9 @@
 
 ## :fire: My Stats : 
 <div>
-  <img width="450" height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=swrneko&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="my Github Stats"/> 
-  <img width="350" height="187" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swrneko&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
-  <img width="450" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swrneko&theme=tokyonight" alt="mystreak"/>
+  <p align="center" >
+    <img width="450" height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=swrneko&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="my Github Stats"/> 
+    <img width="350" height="187" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swrneko&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="ovi" />
+    <img width="450" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swrneko&theme=tokyonight&hide_border=true" alt="mystreak"/>
+  </p>
 <div>
