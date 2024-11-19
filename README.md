@@ -23,8 +23,8 @@
 ## :fish_cake: My favorite repo:
 <div>
   <p align="center" >
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swrneko&repo=dots&theme=tokyonight&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swrneko&repo=mai_shit&theme=tokyonight&hide_border=true"/>
+     <a herf="https://github.com/swrneko/dots" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=swrneko&repo=dots&theme=tokyonight&hide_border=true"/></a>
+     <a herf="https://github.com/swrneko/mai_shit" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=swrneko&repo=mai_shit&theme=tokyonight&hide_border=true"/></a>
   </p>
 </div>
 
