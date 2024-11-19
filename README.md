@@ -1,11 +1,17 @@
-## :wave: wassup.
+### :wave: Welcome to my github profile %username!
 <img src="https://github.com/swrneko/swrneko/blob/main/x4hnwsvps4h91.gif" />
+
+<!---
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/swrneko/count.svg" />
 </p>
+-->
 
-## Get in touch :coffee:
+<p align="center" > 
+  &emsp;Wassup! I'm junior dev-ops from Russia 🇷🇺.
+</p>
+
 <div>
   <p align="center">
     <a href="https://t.me/swrnekodesu" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>&nbsp;
@@ -15,7 +21,9 @@
 </div>
 
 ## About me:
-I'm swrneko, student of MAI, junior developer, studies electronics, dev-ops and etc. <br>
+<div>
+    
+</div>
 
 
 ## :hammer_and_wrench: Languages i use:
