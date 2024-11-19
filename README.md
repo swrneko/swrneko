@@ -21,12 +21,10 @@
 </div>
 
 ## About me:
-- :sweat_drops: so like opensourse; <br>
-- :purple_heart: like linux (i use arch bthw :yum:); <br>
 - :mortar_board: studying in MAI; <br>
 - :briefcase: working on my opensource projects; <br>
-
-
+- :sweat_drops: so like opensourse; <br>
+- :purple_heart: like linux (i use arch bthw :yum:); <br>
 
 ## :hammer_and_wrench: Languages i use:
 <div>
