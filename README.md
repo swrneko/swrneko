@@ -22,8 +22,8 @@
 
 ## :fish_cake: My favorite repo:
 <p align="center">
-  <a href="https://github.com/swrneko/dots"><img src="https://github-readme-stats.vercel.app/api/pin/?username=swrneko&repo=dots&theme=tokyonight&hide_border=true&show_owner=true" /></a>
-  <a href="https://github.com/swrneko/mai_shit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=swrneko&repo=mai_shit&theme=tokyonight&hide_border=true&show_owner=true" /></a>
+  <a href="https://github.com/swrneko/dots"><img src="https://github-readme-stats.vercel.app/api/pin/?username=swrneko&repo=dots&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=full" /></a>
+  <a href="https://github.com/swrneko/mai_shit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=swrneko&repo=mai_shit&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=full" /></a>
 </p>
 
 ## :rice_ball: About me:
