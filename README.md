@@ -12,13 +12,13 @@
   &emsp;Wassup! I'm junior dev-ops from Russia 🇷🇺.
 </p>
 
-<div>
+<div align="center">
   <p align="center">
     <a href="https://t.me/swrnekodesu" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>&nbsp;
     <a href="https://www.reddit.com/user/sayyyo/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Telegram"></a>&nbsp;
     <a href="https://discord.com/users/559014699950145556" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>&nbsp;
   </p>
-  ![moe-counter](https://count.getloli.com/get/@swrneko-profile?theme=holo)
+  <img src="https://count.getloli.com/get/@swrneko-profile?theme=rule34"/>
 </div>
 
 ## :fish_cake: My favorite repo:
