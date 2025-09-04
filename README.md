@@ -1,4 +1,4 @@
-### :floppy_disk: Welcome to my github profile %username!
+### :floppy_disk: Welcome to my github profile $username!
 <img src="https://github.com/swrneko/swrneko/blob/main/x4hnwsvps4h91.gif" />
 
 <!---
