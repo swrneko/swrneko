@@ -1,4 +1,4 @@
-2### :floppy_disk: Welcome to my github profile $username!
+### :floppy_disk: Welcome to my github profile $username!
 <img src="https://github.com/swrneko/swrneko/blob/main/x4hnwsvps4h91.gif" />
 
 <!---
@@ -23,8 +23,11 @@
 
 ## :fish_cake: My favorite repo:
 <p align="center">
-  <a href="https://github.com/swrneko/NOVA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=swrneko&repo=dots&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=full" /></a>
+  <a href="https://github.com/swrneko/NOVA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=swrneko&repo=NOVA&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=full" /></a>
   <a href="https://github.com/swrneko/mai_shit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=swrneko&repo=mai_shit&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=full" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/swrneko/faster-whisper-n-ionet-llm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=swrneko&repo=faster-whisper-n-ionet-llm&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=full" /></a>
 </p>
 
 ## :rice_ball: About me:
